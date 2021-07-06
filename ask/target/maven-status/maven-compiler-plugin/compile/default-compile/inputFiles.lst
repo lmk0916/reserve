@@ -1,0 +1,13 @@
+/home/project/bookrental/ask/src/main/java/bookrental/PolicyHandler.java
+/home/project/bookrental/ask/src/main/java/bookrental/AskRepository.java
+/home/project/bookrental/ask/src/main/java/bookrental/Ask.java
+/home/project/bookrental/ask/src/main/java/bookrental/AskController.java
+/home/project/bookrental/ask/src/main/java/bookrental/AskCanceled.java
+/home/project/bookrental/ask/src/main/java/bookrental/AbstractEvent.java
+/home/project/bookrental/ask/src/main/java/bookrental/external/Pay.java
+/home/project/bookrental/ask/src/main/java/bookrental/BookRented.java
+/home/project/bookrental/ask/src/main/java/bookrental/external/PayService.java
+/home/project/bookrental/ask/src/main/java/bookrental/config/kafka/KafkaProcessor.java
+/home/project/bookrental/ask/src/main/java/bookrental/Asked.java
+/home/project/bookrental/ask/src/main/java/bookrental/BookRentCanceled.java
+/home/project/bookrental/ask/src/main/java/bookrental/AskApplication.java
